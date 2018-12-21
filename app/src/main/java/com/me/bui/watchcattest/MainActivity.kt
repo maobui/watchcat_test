@@ -6,6 +6,10 @@ import android.view.View
 import com.dynamixsoftware.ErrorAgent
 import kotlinx.android.synthetic.main.activity_main.*
 
+/**
+ * Show all reports at here :
+ * http://watchcat.co/reports/versions.php?project_id=224
+ */
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
